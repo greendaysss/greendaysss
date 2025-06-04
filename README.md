@@ -1,5 +1,4 @@
 ## - still wip !!
-![Alt text](asamitaka.jpg)
 <img src="asamitaka.jpg" alt="My Photo" width="300">
 
 <!--
