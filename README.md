@@ -1,5 +1,5 @@
 ## - still wip !!
-<img src="asamitaka.jpg" alt="My Photo" width="300">
+<img src="asamitaka.png" alt="My Photo" width="300">
 
 <!--
 **greendaysss/greendaysss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
